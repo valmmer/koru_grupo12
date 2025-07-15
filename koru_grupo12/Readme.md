@@ -14,7 +14,6 @@ console.log("Current directory:", process.cwd());
 node hello.js
 
 Exercício 2: Manipulação de Strings
-
 Objetivo: Praticar operações básicas com strings.
 
     Crie um arquivo strings.js:
@@ -41,8 +40,8 @@ Desafios
 a) Extraia o primeiro nome usando o método slice ou substring
 b) Verifique se o nome completo contém a letra 'a'
 c) Substitua "Silva" por outro sobrenome usando replace
-Exercício 3: Operações Matemáticas (15 minutos)
 
+Exercício 3: Operações Matemáticas (15 minutos)
 Objetivo: Praticar operações matemáticas e conversão de tipos.
 
     Crie um arquivo math.js:
@@ -80,8 +79,8 @@ Desafios
 a) Calcule a média de 3 números: 15, 25 e 38
 b) Converta a string "123.45" em um número
 c) Arredonde o resultado de 9.7 dividido por 2 para o inteiro mais próximo
-Exercício 4: Estruturas Condicionais (20 minutos)
 
+Exercício 4: Estruturas Condicionais (20 minutos)
 Objetivo: Praticar o uso de if/else e operadores lógicos.
 
     Crie um arquivo conditionals.js:
@@ -127,8 +126,8 @@ Desafios
 a) Crie um sistema de classificação de notas: - 0-59: F - 60-69: D - 70-79: C - 80-89: B - 90-100: A
 b) Verifique se um número é par ou ímpar
 c) Crie uma verificação que diga se uma pessoa pode dirigir (precisa ser maior de idade E ter habilitação)
-Exercício 5: Loops (20 minutos)
 
+Exercício 5: Loops (20 minutos)
 Objetivo: Praticar diferentes tipos de loops.
 
     Crie um arquivo loops.js:
@@ -172,8 +171,8 @@ Desafios
 a) Crie um loop que imprima a tabuada do 7 (de 1 a 10)
 b) Crie um array de números e calcule a soma deles usando um loop
 c) Crie um loop que identifique o menor valor em um array de números
-Exercício 6: Desafio Integrador (30 minutos)
 
+Exercício 6: Desafio Integrador (30 minutos)
 Objetivo: Aplicar todos os conceitos aprendidos em conjunto.
 
     Crie um arquivo final-challenge.js:
