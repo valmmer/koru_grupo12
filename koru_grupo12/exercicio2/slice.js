@@ -9,3 +9,18 @@ let lastName = fullName.slice (6, 12); // Utilizei o slice para extrair o últim
 
 console.log (firstName); // Armazenamento das informações
 console.log (lastName); // Armazenamento das informações
+
+
+// Letra b) Verifique se o nome completo contém a letra 'a'
+
+if (fullName.includes('a') || fullName.includes('A')) { // Verifica se o nome completo contém a letra 'a' ou 'A'
+    console.log ("O nome completo contém a letra 'a'");
+} else {
+    console.log ("O nome completo não contém a letra 'a'");
+}
+
+// Letra c) Substitua "Silva" por outro sobrenome usando replace
+
+const sobrenome = 'Maria Silva'
+const sobrenomeAtualizado = sobrenome.replace('Silva', 'Costa'); // Utilizei o replace para substituir o sobrenome Silva por Costa
+  console.log(sobrenomeAtualizado) // O retorno será 'Maria Costa'
